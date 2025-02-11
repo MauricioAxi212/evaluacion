@@ -1,5 +1,4 @@
 "use strict";
-// ejemplo.ts
 Object.defineProperty(exports, "__esModule", { value: true });
 var funcion_1 = require("./funcion"); // Importo la clase funcion
 // Creo la instancia 
