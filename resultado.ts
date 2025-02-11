@@ -1,8 +1,8 @@
 // ejemplo.ts
 
-import { funcion } from './funcion'; // Asegúrate de importar la clase correctamente
+import { funcion } from './funcion'; // importamos la clase
 
-// Crear una instancia de la clase Funcion
+// Aqui creo una instancia para agregar los utiles
 const producto = new funcion("Cuaderno", 50, 30);
 const producto2 = new funcion("Lapiz", 10, 12);
 const producto3 = new funcion("Tijeras", 10, 3);
