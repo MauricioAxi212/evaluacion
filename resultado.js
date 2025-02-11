@@ -1,8 +1,8 @@
 "use strict";
 // ejemplo.ts
 Object.defineProperty(exports, "__esModule", { value: true });
-var funcion_1 = require("./funcion"); // Asegúrate de importar la clase correctamente
-// Crear una instancia de la clase Funcion
+var funcion_1 = require("./funcion"); // Importo la clase funcion
+// Creo la instancia 
 var producto = new funcion_1.funcion("Cuaderno", 50, 30);
 var producto2 = new funcion_1.funcion("Lapiz", 10, 12);
 var producto3 = new funcion_1.funcion("Tijeras", 10, 3);
