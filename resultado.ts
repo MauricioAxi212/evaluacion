@@ -1,4 +1,3 @@
-// ejemplo.ts
 
 import { funcion } from './funcion'; // importamos la clase
 
